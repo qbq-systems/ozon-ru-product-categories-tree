@@ -1,5 +1,4979 @@
 [
     {
+        "category_id": 17027494,
+        "title": "Дом",
+        "children": [
+            {
+                "category_id": 86029514,
+                "title": "Ароматы для дома",
+                "children": [
+                    {
+                        "category_id": 88101031,
+                        "title": "Аксессуары для аромамасел",
+                        "children": []
+                    },
+                    {
+                        "category_id": 71108789,
+                        "title": "Аромакерамика",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029365,
+                        "title": "Саше интерьерное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52882186,
+                        "title": "Благовония и аксессуары",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86840804,
+                        "title": "Парфюмерный спрей для дома",
+                        "children": []
+                    },
+                    {
+                        "category_id": 101530505,
+                        "title": "Аромадиффузор ультразвуковой интерьерный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029364,
+                        "title": "Диффузор, наполнитель для диффузора",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038650,
+                        "title": "Ароматизатор интерьерный, аксессуары",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86840799,
+                        "title": "Нейтрализатор запаха для дома",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027921,
+                "title": "Ножи кухонные",
+                "children": [
+                    {
+                        "category_id": 17032242,
+                        "title": "Нож-топорик",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038834,
+                        "title": "Овощерезка, терка, измельчитель",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032239,
+                        "title": "Нож для чистки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032043,
+                        "title": "Нож консервный, открывалка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032244,
+                        "title": "Набор кухонных ножей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 50765808,
+                        "title": "Удалитель сердцевины фруктов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032245,
+                        "title": "Нож кухонный",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 87768309,
+                "title": "Ткань",
+                "children": [
+                    {
+                        "category_id": 69997192,
+                        "title": "Ткань мебельная под заказ",
+                        "children": []
+                    },
+                    {
+                        "category_id": 93318107,
+                        "title": "Ткань для обивки салона автомобиля",
+                        "children": []
+                    },
+                    {
+                        "category_id": 87403762,
+                        "title": "Ткань для интерьера, ткань для штор под заказ",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 89280910,
+                "title": "Оборудование для HoReCa",
+                "children": [
+                    {
+                        "category_id": 99049714,
+                        "title": "Буфетная станция",
+                        "children": []
+                    },
+                    {
+                        "category_id": 93270894,
+                        "title": "Протирочный нетканый материал для кухни",
+                        "children": []
+                    },
+                    {
+                        "category_id": 94650434,
+                        "title": "Корзина-тележка для белья",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89312070,
+                        "title": "Уборочная тележка",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028745,
+                "title": "Садовый декор и теплицы",
+                "children": [
+                    {
+                        "category_id": 1000001816,
+                        "title": "Комплектующие для биотуалета, септика",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80463729,
+                        "title": "Газон искусственный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036586,
+                        "title": "Фонтан садовый, аксессуары",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036585,
+                        "title": "Биотуалет",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037688,
+                        "title": "Опора для домашних растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 90732807,
+                        "title": "Аксессуары для садовых ворот, забора, ограждения",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036578,
+                        "title": "Горшок, корзина, ящик для садовых растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89707016,
+                        "title": "Отсыпка декоративная для сада",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036583,
+                        "title": "Аксессуары для садовых растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 97848050,
+                        "title": "Газон рулонный натуральный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92409124,
+                        "title": "Туалетная кабина мобильная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036579,
+                        "title": "Парник, теплица для садовых растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036580,
+                        "title": "Опора для садовых растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029350,
+                        "title": "Фонтан домашний декоративный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029188,
+                        "title": "Аксессуар для загородного дома",
+                        "children": []
+                    },
+                    {
+                        "category_id": 100942788,
+                        "title": "Компостер садовый",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036582,
+                        "title": "Укрывной материал для садовых растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 84456553,
+                        "title": "Кормушка для птиц, домик для полезных насекомых садовые",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003635,
+                        "title": "Сетка садовая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029195,
+                        "title": "Украшение садовое",
+                        "children": []
+                    },
+                    {
+                        "category_id": 87440176,
+                        "title": "Сарай, хозблок, туалет садовый стационарный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92448261,
+                        "title": "Мусоросжигатель для дачи",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036581,
+                        "title": "Подставка, держатель для садовых растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99958902,
+                        "title": "Грядка, клумба сборные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 94098210,
+                        "title": "Забор",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036587,
+                        "title": "Бордюр, ограждение садовые",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99198957,
+                        "title": "Дорожка, плитка, паркет садовые",
+                        "children": []
+                    },
+                    {
+                        "category_id": 82329965,
+                        "title": "Комплектующие для теплиц и парников",
+                        "children": []
+                    },
+                    {
+                        "category_id": 90306609,
+                        "title": "Автонавес",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003099,
+                        "title": "Тент, чехол для парника, теплицы",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 92417201,
+                "title": "Одноразовая посуда",
+                "children": [
+                    {
+                        "category_id": 34650681,
+                        "title": "Стакан одноразовый",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038822,
+                        "title": "Посуда одноразовая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037080,
+                        "title": "Скатерть одноразовая",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028739,
+                "title": "Свечи",
+                "children": [
+                    {
+                        "category_id": 77797502,
+                        "title": "Фигурки, топперы на свадебный торт",
+                        "children": []
+                    },
+                    {
+                        "category_id": 35728424,
+                        "title": "Воск ароматический",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030665,
+                        "title": "Свеча, набор свечей интерьерных",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92138180,
+                        "title": "Аксессуары для свечей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029363,
+                        "title": "Аромалампа, наполнитель для аромалампы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77797276,
+                        "title": "Свадебные свечи, подсвечники",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85867397,
+                        "title": "Свеча ритуальная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038620,
+                        "title": "Свеча, набор свечей ароматических интерьерных",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825132,
+                        "title": "Свеча, подсвечник новогодние",
+                        "children": []
+                    },
+                    {
+                        "category_id": 91020655,
+                        "title": "Фитиль для свечи",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86779748,
+                        "title": "Набор с аромалампой, аромадиффузором",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038622,
+                        "title": "Подсвечник",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77812979,
+                        "title": "Свечи, топперы на торт для праздника",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027905,
+                "title": "Аксессуары для бани и ванной",
+                "children": [
+                    {
+                        "category_id": 87868098,
+                        "title": "Купель для бани и сауны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036027,
+                        "title": "Набор для бани и сауны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451130,
+                        "title": "Пробка, заглушка для раковины, ванны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037076,
+                        "title": "Таз",
+                        "children": []
+                    },
+                    {
+                        "category_id": 93190764,
+                        "title": "Испаритель для бани и сауны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451100,
+                        "title": "Держатель для полотенца",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032230,
+                        "title": "Ершик, щетка для унитаза",
+                        "children": []
+                    },
+                    {
+                        "category_id": 94650496,
+                        "title": "Диспенсер для бумажных полотенец, туалетной бумаги HoReCa",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451149,
+                        "title": "Крючок для ванной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036021,
+                        "title": "Масла, запарки, соль для бани",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451081,
+                        "title": "Мыльница, держатель для мыла",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451113,
+                        "title": "Аксессуары для санузла",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032663,
+                        "title": "Оборудование для HoReCa",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036959,
+                        "title": "Банный декор",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22824692,
+                        "title": "Аксессуары для бани",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451109,
+                        "title": "Держатель для туалетной бумаги",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88925864,
+                        "title": "Набор для ванной комнаты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036028,
+                        "title": "Бондарные изделия для бани и сауны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 90685039,
+                        "title": "Дверь для бани и сауны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89354534,
+                        "title": "Камни для бани и сауны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 91866785,
+                        "title": "Футляр для зубной щетки, пасты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451122,
+                        "title": "Диспенсер для мыла, антисептика",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036025,
+                        "title": "Шапка для бани и сауны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451106,
+                        "title": "Подушка для ванной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451102,
+                        "title": "Держатель, подставка для ванной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036957,
+                        "title": "Дровница для бани",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032232,
+                        "title": "Сиденье для унитаза",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036958,
+                        "title": "Часы, термогигрометр для бани и сауны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451129,
+                        "title": "Стакан для ванны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451111,
+                        "title": "Полка для ванной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451067,
+                        "title": "Решетка на ванну",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451161,
+                        "title": "Противоскользящее покрытие для ванной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451089,
+                        "title": "Набор колец, крючков для штор в ванной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035391,
+                        "title": "Дровница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86441265,
+                        "title": "Тапки, наборы с тапками для бани",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038854,
+                        "title": "Веник для бани",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027930,
+                "title": "Товары для пикника",
+                "children": [
+                    {
+                        "category_id": 93233408,
+                        "title": "Аксессуары для розжига",
+                        "children": []
+                    },
+                    {
+                        "category_id": 58396222,
+                        "title": "Сухие средства для розжига",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80458788,
+                        "title": "Гриль, печь, томильная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99028407,
+                        "title": "Термосумка для ланч-бокса",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80458618,
+                        "title": "Аксессуары для барбекю, пикника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88988234,
+                        "title": "Очаг, подставка для дров",
+                        "children": []
+                    },
+                    {
+                        "category_id": 82329851,
+                        "title": "Решетка для мангала",
+                        "children": []
+                    },
+                    {
+                        "category_id": 57725018,
+                        "title": "Жидкости и гели для розжига",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029189,
+                        "title": "Набор для барбекю, пикника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036088,
+                        "title": "Жаровня, коптильня",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80458427,
+                        "title": "Мангал, барбекю",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80458000,
+                        "title": "Дрова для пикника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 78348798,
+                        "title": "Автомобильная термосумка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 29907308,
+                        "title": "Щепа для копчения",
+                        "children": []
+                    },
+                    {
+                        "category_id": 100949007,
+                        "title": "Уголь древесный, каменный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032142,
+                        "title": "Термоконтейнер, термосумка походная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 78239403,
+                        "title": "Аккумулятор холода",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88988233,
+                        "title": "Аксессуары для гриля, мангала, коптильни",
+                        "children": []
+                    },
+                    {
+                        "category_id": 82329867,
+                        "title": "Шампур",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 77640543,
+                "title": "Авторские товары",
+                "children": [
+                    {
+                        "category_id": 17035135,
+                        "title": "Комплект украшений авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036892,
+                        "title": "Брошь авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99733586,
+                        "title": "Емкость для хранения продуктов авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932282,
+                        "title": "Сахарница авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036881,
+                        "title": "Оловянная миниатюра авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035130,
+                        "title": "Игрушка авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92505043,
+                        "title": "Часы наручные авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932273,
+                        "title": "Кружка, чашка авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036885,
+                        "title": "Открытка авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99829998,
+                        "title": "Ковер авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932317,
+                        "title": "Молочник авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17033482,
+                        "title": "Фоторамка авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035123,
+                        "title": "Часы интерьерные авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035124,
+                        "title": "Шкатулка авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77933140,
+                        "title": "Свечи авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036888,
+                        "title": "Упаковка авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035126,
+                        "title": "Ваза авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77936430,
+                        "title": "Матрешка авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035127,
+                        "title": "Зеркало авторское",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932349,
+                        "title": "Миска, чаша авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036891,
+                        "title": "Браслет авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77933565,
+                        "title": "Ключница авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825024,
+                        "title": "Сувенирное оружие авторское",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932264,
+                        "title": "Кашпо авторское",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77934409,
+                        "title": "Набор приборов для сервировки авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77933128,
+                        "title": "Скатерть авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036893,
+                        "title": "Брелок авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036889,
+                        "title": "Серьги авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035128,
+                        "title": "Батик авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035121,
+                        "title": "Статуэтка, скульптура авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002615,
+                        "title": "Веер авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035129,
+                        "title": "Елочная игрушка авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89323228,
+                        "title": "Сумка авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035125,
+                        "title": "Яйцо декоративное авторское",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036882,
+                        "title": "Колокольчик авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92092334,
+                        "title": "Доска разделочная, сервировочная авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17034499,
+                        "title": "Шахматы, домино, карты авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036894,
+                        "title": "Бусы, колье, ожерелье авторское",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035136,
+                        "title": "Кулон, подвеска авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000001987,
+                        "title": "Посуда для приготовления авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73640035,
+                        "title": "Принт, плакат авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035131,
+                        "title": "Калейдоскоп, телейдоскоп авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036887,
+                        "title": "Свистулька авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 96751419,
+                        "title": "Турка авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036884,
+                        "title": "Магнит авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932315,
+                        "title": "Чайник авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92269025,
+                        "title": "Инвентарь для уборки авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17033483,
+                        "title": "Подсвечник авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036886,
+                        "title": "Разное, сувениры авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 96965847,
+                        "title": "Аксессуары для обуви авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003061,
+                        "title": "Декоративный светильник ручной работы по индивидуальному заказу",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035122,
+                        "title": "Тарелка декоративная авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035133,
+                        "title": "Запонки авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77934637,
+                        "title": "Тарелка авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77936429,
+                        "title": "Корабль авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932307,
+                        "title": "Салатник авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 71253103,
+                        "title": "Солдатик авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 71253216,
+                        "title": "Заколка авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92269024,
+                        "title": "Корзина авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 79313205,
+                        "title": "Значок авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036879,
+                        "title": "Картина авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036878,
+                        "title": "Иконы авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932475,
+                        "title": "Сервиз авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036890,
+                        "title": "Аксессуар для волос авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932855,
+                        "title": "Поднос авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036883,
+                        "title": "Кукла авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036880,
+                        "title": "Лампа, светильник авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932272,
+                        "title": "Графин, штоф, кувшин авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 71253145,
+                        "title": "Колье авторское",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036873,
+                        "title": "Обложка, чехол авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035134,
+                        "title": "Кольцо авторское",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932854,
+                        "title": "Блюдо авторское",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036877,
+                        "title": "Панно, коллаж авторский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77932306,
+                        "title": "Стакан, бокал авторские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035120,
+                        "title": "Посуда для сервировки авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 72081543,
+                        "title": "Подставка под бутылку авторская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035119,
+                        "title": "Подушка декоративная авторская",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027934,
+                "title": "Шторы и карнизы",
+                "children": [
+                    {
+                        "category_id": 17035567,
+                        "title": "Фотошторы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 100007418,
+                        "title": "Автоматизированная система управления шторами",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035562,
+                        "title": "Жалюзи",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035561,
+                        "title": "Шторы кухонные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035568,
+                        "title": "Шторы комнатные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035560,
+                        "title": "Карниз для штор",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86781718,
+                        "title": "Шторы отрезные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035559,
+                        "title": "Аксессуары для штор и карнизов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035566,
+                        "title": "Тюль, вуаль, органза",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451083,
+                        "title": "Шторы для ванной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 93233126,
+                        "title": "Шторы уличные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003555,
+                        "title": "Тюль для детской комнаты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035563,
+                        "title": "Занавеска",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17034442,
+                        "title": "Шторы для детской комнаты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89356672,
+                        "title": "Пленка для окон",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035564,
+                        "title": "Римские шторы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035565,
+                        "title": "Рулонные шторы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451066,
+                        "title": "Карниз для штор для ванной",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028726,
+                "title": "Ширмы",
+                "children": [
+                    {
+                        "category_id": 32451157,
+                        "title": "Ширма для ванной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 30670232,
+                        "title": "Ширма",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027931,
+                "title": "Фильтры",
+                "children": [
+                    {
+                        "category_id": 17032034,
+                        "title": "Фильтр-кувшин для воды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032235,
+                        "title": "Фильтр для воды проточный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 50715799,
+                        "title": "Тестер воды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99558539,
+                        "title": "Питьевой фонтанчик",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003159,
+                        "title": "Сопутствующее оборудование для фильтрации воды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032234,
+                        "title": "Картридж, модуль для водного фильтра",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032033,
+                        "title": "Фильтр насадка для воды",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027909,
+                "title": "Гладильные доски и сушилки",
+                "children": [
+                    {
+                        "category_id": 17034042,
+                        "title": "Насадка для утюга",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17034041,
+                        "title": "Комплект средств по уходу за утюгом",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029145,
+                        "title": "Аксессуары для утюга",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037093,
+                        "title": "Сушилка для белья",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029144,
+                        "title": "Гладильная доска",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037092,
+                        "title": "Сетка, марля для глажения",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037094,
+                        "title": "Чехол для гладильной доски",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027907,
+                "title": "Аксессуары для приготовления пищи",
+                "children": [
+                    {
+                        "category_id": 88817290,
+                        "title": "Закаточная машинка, набор для домашней консервации",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038816,
+                        "title": "Подставка под стакан, кружку",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038840,
+                        "title": "Вилка кулинарная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036005,
+                        "title": "Толкушка, картофелемялка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036008,
+                        "title": "Шприц, мешок кулинарный, кондитерский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34892895,
+                        "title": "Набор для канапе",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029198,
+                        "title": "Штопор",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80200176,
+                        "title": "Шумовка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89230251,
+                        "title": "Аксессуары, средства для ухода за разделочной доской",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036621,
+                        "title": "Набор разделочных, сервировочных досок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038835,
+                        "title": "Орехоколы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 39702927,
+                        "title": "Гель для фондю",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036620,
+                        "title": "Разделочная, сервировочная доска",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036015,
+                        "title": "Соковыжималка механическая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 91150433,
+                        "title": "Приспособление для приготовления суши, роллов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 90846800,
+                        "title": "Форма для вырезания теста, печать, трафарет для выпечки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038819,
+                        "title": "Ситечко, фильтр для чая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032243,
+                        "title": "Подставка, держатель, чехол для ножей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036004,
+                        "title": "Салфетница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038849,
+                        "title": "Воронка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038853,
+                        "title": "Кухонные аксессуары",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036013,
+                        "title": "Скалка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036010,
+                        "title": "Брызгогаситель",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029197,
+                        "title": "Форма, пакетик для льда",
+                        "children": []
+                    },
+                    {
+                        "category_id": 101404710,
+                        "title": "Рассекатель, накладка на решетку газовой плиты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038839,
+                        "title": "Приспособления для яиц",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035995,
+                        "title": "Набор приборов для сервировки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80200172,
+                        "title": "Щипцы кулинарные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036017,
+                        "title": "Сушилка, подставка для посуды, столовых приборов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003579,
+                        "title": "Коврик для выпечки и раскатки теста",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032240,
+                        "title": "Ножницы кухонные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038838,
+                        "title": "Прихватка, рукавица силиконовая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038844,
+                        "title": "Молоток для мяса, тендерайзер",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038842,
+                        "title": "Мерная емкость, мерный совок/лопатка, емкость для миксера",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80200170,
+                        "title": "Лопатка кулинарная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 91977184,
+                        "title": "Адаптер для индукционной плиты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036020,
+                        "title": "Сушилка, центрифуга для овощей и фруктов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036623,
+                        "title": "Поднос",
+                        "children": []
+                    },
+                    {
+                        "category_id": 91761089,
+                        "title": "Форма для леденцов, конфет и шоколада",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80200174,
+                        "title": "Ложка кулинарная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88817288,
+                        "title": "Набор для приготовления сыра, творога",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036011,
+                        "title": "Венчик, миксер ручной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036615,
+                        "title": "Взбиватель для молока, сливок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 47818346,
+                        "title": "Пресс для чеснока",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88624898,
+                        "title": "Набор для суши сервировочный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038810,
+                        "title": "Ручки съемные для посуды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038836,
+                        "title": "Подставка под горячее",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038851,
+                        "title": "Зажигалка кухонная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34407204,
+                        "title": "Ведерко для льда",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035766,
+                        "title": "Фильтр для заваривания чая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038837,
+                        "title": "Подставка, держатель для кухонных принадлежностей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80200178,
+                        "title": "Половник",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88818105,
+                        "title": "Игла, пинцет кулинарные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88817287,
+                        "title": "Лапшерезка, сушилка для лапши",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002656,
+                        "title": "Сетка, корзина для кастрюли",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036609,
+                        "title": "Кофемолка, мельница для кофе",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036003,
+                        "title": "Рейлинги и аксессуары",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86440209,
+                        "title": "Мясорубка механическая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038845,
+                        "title": "Набор кухонной навески",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038850,
+                        "title": "Дуршлаг",
+                        "children": []
+                    },
+                    {
+                        "category_id": 76768185,
+                        "title": "Термометр кулинарный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038841,
+                        "title": "Ложка, форма для мороженого",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036006,
+                        "title": "Фольга, пленка, бумага для выпечки, пакеты для запекания",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036009,
+                        "title": "Аксессуары для выпечки и запекания",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002728,
+                        "title": "Фильтр для заваривания напитков в чашке, термостакане",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036014,
+                        "title": "Сито",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88617853,
+                        "title": "Гастроемкость",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032241,
+                        "title": "Ножеточка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17034056,
+                        "title": "Фильтр для кофеварок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003521,
+                        "title": "Кухонная подставка для бутылок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 95430313,
+                        "title": "Автоклав для консервирования",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027908,
+                "title": "Вешалки и плечики",
+                "children": [
+                    {
+                        "category_id": 17038623,
+                        "title": "Крючок, крючок самоклеющийся",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030469,
+                        "title": "Вешалка детская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17031651,
+                        "title": "Вешалка, набор вешалок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52671341,
+                        "title": "Рейлы и напольные вешалки",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 75876205,
+                "title": "Товары для курения",
+                "children": [
+                    {
+                        "category_id": 86840934,
+                        "title": "Кисет для табака",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86840937,
+                        "title": "Чехол для сигарет, сигар, трубок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92290891,
+                        "title": "Аксессуары для самокрутки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030642,
+                        "title": "Портсигар",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030644,
+                        "title": "Аксессуары для сигар",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030643,
+                        "title": "Хьюмидор",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035367,
+                        "title": "Аксессуары для трубки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035366,
+                        "title": "Трубка курительная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030646,
+                        "title": "Мундштук",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028730,
+                "title": "Полотенца и скатерти",
+                "children": [
+                    {
+                        "category_id": 17037028,
+                        "title": "Комплект для купания детский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92045745,
+                        "title": "Скатерть силиконовая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 39170950,
+                        "title": "Салфетка сервировочная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035553,
+                        "title": "Набор полотенец",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003623,
+                        "title": "Одежда для бани и сауны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 81722281,
+                        "title": "Брендированный аксессуар для пляжа женский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035552,
+                        "title": "Полотенце кухонное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037029,
+                        "title": "Полотенце для новорожденных и малышей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039513,
+                        "title": "Прихватка текстильная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039517,
+                        "title": "Скатерть прямоугольная, квадратная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85847767,
+                        "title": "Полотенце пляжное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039511,
+                        "title": "Фартук",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035551,
+                        "title": "Полотенце для лица, рук или ног",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039506,
+                        "title": "Полотенце банное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 81723135,
+                        "title": "Брендированный аксессуар для пляжа мужской",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039514,
+                        "title": "Салфетка текстильная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039516,
+                        "title": "Скатерть круглая, овальная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039503,
+                        "title": "Полотенце, тюрбан, чалма для сушки волос",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92309907,
+                        "title": "Аксессуары для кухонного текстиля",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039515,
+                        "title": "Набор столовый",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027932,
+                "title": "Фоторамка, альбом",
+                "children": [
+                    {
+                        "category_id": 17030474,
+                        "title": "Фотоальбом детский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030473,
+                        "title": "Фоторамка детская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038649,
+                        "title": "Фоторамка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038647,
+                        "title": "Держатель для фото и визиток",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038640,
+                        "title": "Альбом сувенирный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038648,
+                        "title": "Фотоальбом",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027933,
+                "title": "Хранение продуктов",
+                "children": [
+                    {
+                        "category_id": 89180972,
+                        "title": "Коробка для продуктов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036018,
+                        "title": "Сырница, набор для сыра",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825022,
+                        "title": "Контейнер для продуктов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 93203605,
+                        "title": "ЭМ-диск для холодильника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89229810,
+                        "title": "Коврик для кухонных полок, ящиков",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003111,
+                        "title": "Пакет непищевой с вырубкой",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80722153,
+                        "title": "Пакеты, мешочки для хранения продуктов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89180981,
+                        "title": "Крышки для пищевых контейнеров, банок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038846,
+                        "title": "Наборы и емкости для хранения специй и соусов, солонка, перечница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22824701,
+                        "title": "Набор контейнеров для продуктов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036612,
+                        "title": "Лимонница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88178687,
+                        "title": "Бочка, кадка, бак для соления",
+                        "children": []
+                    },
+                    {
+                        "category_id": 61308342,
+                        "title": "Ланч-бокс",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22824709,
+                        "title": "Набор банок для продуктов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825092,
+                        "title": "Бидон, ведро, таз пищевые",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038843,
+                        "title": "Мельница для соли и перца",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825091,
+                        "title": "Банка для продуктов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038852,
+                        "title": "Зажимы для пакетов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036007,
+                        "title": "Хлебница, сухарница",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028741,
+                "title": "Столовая посуда",
+                "children": [
+                    {
+                        "category_id": 17035993,
+                        "title": "Менажница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038828,
+                        "title": "Фруктовница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036619,
+                        "title": "Подстаканник",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036607,
+                        "title": "Сахарница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036613,
+                        "title": "Молочник, сливочник",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86917576,
+                        "title": "Блюдце",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036624,
+                        "title": "Посуда для сервировки стола",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038815,
+                        "title": "Набор чайный, кофейный (без чайника)",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038823,
+                        "title": "Салатница, салатник",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036616,
+                        "title": "Конфетница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038820,
+                        "title": "Тортница, набор для торта",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038829,
+                        "title": "Блюдо",
+                        "children": []
+                    },
+                    {
+                        "category_id": 45628127,
+                        "title": "Посуда с мультсимволикой",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036622,
+                        "title": "Миска, чаша, пиала",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036614,
+                        "title": "Набор молочник и сахарница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038831,
+                        "title": "Креманка, розетка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038826,
+                        "title": "Тарелка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038818,
+                        "title": "Сервиз чайный, кофейный, набор с чайником",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52266269,
+                        "title": "Чайник заварочный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036602,
+                        "title": "Мармит",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038824,
+                        "title": "Соусник",
+                        "children": []
+                    },
+                    {
+                        "category_id": 45628042,
+                        "title": "Посуда с киносимволикой",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038827,
+                        "title": "Супница, бульонница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038825,
+                        "title": "Сервиз, набор посуды столовый",
+                        "children": []
+                    },
+                    {
+                        "category_id": 45627864,
+                        "title": "Посуда с музыкальной символикой",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036610,
+                        "title": "Кружка, чашка, пиала для чая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038817,
+                        "title": "Подставка под чайные пакетики",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038830,
+                        "title": "Масленка",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028743,
+                "title": "Сувениры",
+                "children": [
+                    {
+                        "category_id": 17038633,
+                        "title": "Копилка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 93190999,
+                        "title": "Букет из игрушек",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86165243,
+                        "title": "Сувенирные деньги",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038646,
+                        "title": "Сувенирное оружие",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52678339,
+                        "title": "Открытки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038626,
+                        "title": "Магнит-украшение",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032157,
+                        "title": "Сувениры со спортивной символикой",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000001832,
+                        "title": "Медальница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77872896,
+                        "title": "Сюрприз/подарочный бокс непродовольственный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 100376334,
+                        "title": "Аксессуары для сувенирного оружия",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77798546,
+                        "title": "Аксессуары для молодоженов и свидетелей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77796185,
+                        "title": "Замок счастья для молодоженов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 97862981,
+                        "title": "Набор подарочный с текстилем",
+                        "children": []
+                    },
+                    {
+                        "category_id": 87544297,
+                        "title": "Рушник свадебный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77797833,
+                        "title": "Корзинки для лепестков, лепестки роз",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77797650,
+                        "title": "Фигуры из пенопласта, интерьерные слова для свадьбы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99429264,
+                        "title": "Свадебная подвязка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77799020,
+                        "title": "Банкетные карточки, пригласительные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 93191001,
+                        "title": "Букет, подарок из мыльных цветов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77798974,
+                        "title": "Подставки, подушечки для колец",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002383,
+                        "title": "Копилка детская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825084,
+                        "title": "Свадебные аксессуары, сувениры",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77798388,
+                        "title": "Аксессуары для свадебных конкурсов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 28946363,
+                        "title": "Конверт подарочный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 74720366,
+                        "title": "Подарки-впечатления",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038645,
+                        "title": "Сувенирная продукция",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73633081,
+                        "title": "Подарочный набор сувенирный новогодний",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77797836,
+                        "title": "Книги, деревья пожеланий для молодоженов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038610,
+                        "title": "Сувенир новогодний",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000001787,
+                        "title": "Вечный календарь",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99592545,
+                        "title": "Свадебная бутоньерка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038643,
+                        "title": "Ленты, медали, кубки поздравительные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 93190984,
+                        "title": "Игрушка из цветов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038641,
+                        "title": "Грамота, диплом поздравительные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77798975,
+                        "title": "Бонбоньерка",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027935,
+                "title": "Елки",
+                "children": [
+                    {
+                        "category_id": 70603994,
+                        "title": "Подставка, коврик под елку",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22824995,
+                        "title": "Елка уличная новогодняя",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22824992,
+                        "title": "Елка настольная новогодняя",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22824851,
+                        "title": "Елка напольная новогодняя",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825112,
+                        "title": "Елка живая новогодняя",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027938,
+                "title": "Цветы и растения",
+                "children": [
+                    {
+                        "category_id": 1000003112,
+                        "title": "Цветы срезанные живые, поштучно",
+                        "children": []
+                    },
+                    {
+                        "category_id": 100001894,
+                        "title": "Микст цветы живые срезанные, букет",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77795306,
+                        "title": "Свадебные букеты, букеты-дублеры",
+                        "children": []
+                    },
+                    {
+                        "category_id": 56727951,
+                        "title": "Цветы сухие и стабилизированные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029349,
+                        "title": "Цветы живые горшечные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003062,
+                        "title": "Левитирующий горшок с живым растением",
+                        "children": []
+                    },
+                    {
+                        "category_id": 79786681,
+                        "title": "Моно цветы живые срезанные, букет",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029352,
+                        "title": "Искусственные цветы, декоративные растения",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 83625738,
+                "title": "Насосы для дачи и сада",
+                "children": [
+                    {
+                        "category_id": 17032681,
+                        "title": "Насос погружной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 87777545,
+                        "title": "Комплектующие для насосов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 83353088,
+                        "title": "Насос поверхностный",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028718,
+                "title": "Инвентарь для уборки",
+                "children": [
+                    {
+                        "category_id": 17037086,
+                        "title": "Тряпка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037082,
+                        "title": "Салфетка, набор салфеток для уборки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92488937,
+                        "title": "Сгон воды для пола",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029749,
+                        "title": "Перчатки хозяйственные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037083,
+                        "title": "Скребок, набор лезвий для скребка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029140,
+                        "title": "Веник, метла домашняя",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037088,
+                        "title": "Щетка, щетка-сметка, насадка для щетки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029142,
+                        "title": "Ершик, щетка для мытья посуды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037087,
+                        "title": "Швабра, раздвижная ручка для швабры, флаундер",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86919689,
+                        "title": "Насадка для швабры, сменный блок для швабры",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89124532,
+                        "title": "Держатель инвентаря для уборки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037085,
+                        "title": "Стекломои",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029748,
+                        "title": "Набор для уборки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037084,
+                        "title": "Совок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003195,
+                        "title": "Дозатор средства для мытья посуды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029141,
+                        "title": "Губка, набор губок, набор для мытья посуды",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 78833978,
+                "title": "Товары для пруда",
+                "children": [
+                    {
+                        "category_id": 17029193,
+                        "title": "Пруд садовый, аксессуары",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028731,
+                "title": "Постельное белье",
+                "children": [
+                    {
+                        "category_id": 17035558,
+                        "title": "Пододеяльник",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17033814,
+                        "title": "Чехол на подушку для беременных и кормящих",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030448,
+                        "title": "Пододеяльник в кроватку для новорожденных и малышей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039509,
+                        "title": "КПБ 2-спальный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039510,
+                        "title": "КПБ 1,5-спальный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035556,
+                        "title": "Наволочка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035555,
+                        "title": "Простыня",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039508,
+                        "title": "КПБ семейный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 56715313,
+                        "title": "Наволочка для декоративной подушки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22824988,
+                        "title": "КПБ детский от 110х140",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030446,
+                        "title": "Комплект постельного белья для новорожденных и малышей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039507,
+                        "title": "КПБ Евро размер от 200х220",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035557,
+                        "title": "Наматрасник",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34196688,
+                        "title": "Матрас для пеленания",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037327,
+                        "title": "Чехол для подушки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030449,
+                        "title": "Простыня в кроватку для новорожденных и малышей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030447,
+                        "title": "Наволочка в кроватку для новорожденных и малышей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92045851,
+                        "title": "Аксессуары для постельных принадлежностей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80229678,
+                        "title": "Наматрасник в кроватку для новорожденных и малышей",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 77011122,
+                "title": "Ритуальные, церковные товары",
+                "children": [
+                    {
+                        "category_id": 1000002653,
+                        "title": "Брелок религиозный бижу",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85868088,
+                        "title": "Гудра траурная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 91725567,
+                        "title": "Священное масло, миро",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85868089,
+                        "title": "Покрывало в гроб",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002652,
+                        "title": "Форма для просфоры",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85867554,
+                        "title": "Рушник ритуальный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85866823,
+                        "title": "Лента траурная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85867396,
+                        "title": "Ваза ритуальная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17033466,
+                        "title": "Предметы культа разное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85868090,
+                        "title": "Тапочки ритуальные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003568,
+                        "title": "Скамейка на кладбище",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003569,
+                        "title": "Столик на кладбище",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85868087,
+                        "title": "Комплект текстильный в гроб",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85867553,
+                        "title": "Лампада ритуальная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 78902979,
+                        "title": "Четки бижу",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85866826,
+                        "title": "Крест ритуальный на могилу",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002738,
+                        "title": "Фурнитура для памятника, гроба",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85868091,
+                        "title": "Подушка в гроб",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92448319,
+                        "title": "Уголь церковный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85867819,
+                        "title": "Молитва ритуальная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002649,
+                        "title": "Образок нательный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77057943,
+                        "title": "Венок ритуальный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85867341,
+                        "title": "Полумесяц на гроб",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85866821,
+                        "title": "Корзина ритуальная с искусственными цветами",
+                        "children": []
+                    },
+                    {
+                        "category_id": 100186319,
+                        "title": "Надгробная плита, памятник",
+                        "children": []
+                    },
+                    {
+                        "category_id": 100672437,
+                        "title": "Оградка на могилу",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85867649,
+                        "title": "Погребальный набор",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002655,
+                        "title": "Гайтан",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85866764,
+                        "title": "Урна для праха",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027937,
+                "title": "Ящик для хранения",
+                "children": [
+                    {
+                        "category_id": 17038631,
+                        "title": "Держатель для украшений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 96964944,
+                        "title": "Пакет, мешок для хранения вещей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002307,
+                        "title": "Термоусадочный пакет для упаковки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86561920,
+                        "title": "Чехол, органайзер для хранения обуви",
+                        "children": []
+                    },
+                    {
+                        "category_id": 81280946,
+                        "title": "Стрейч пленка, пузырчатая пленка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038632,
+                        "title": "Ключница настенная декоративная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92448356,
+                        "title": "Наполнитель упаковочный для коробок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 100483848,
+                        "title": "Декоративный наполнитель для коробок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 84947832,
+                        "title": "Клиентские пакеты Ozon",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17031649,
+                        "title": "Корзина для хранения",
+                        "children": []
+                    },
+                    {
+                        "category_id": 87245617,
+                        "title": "Рамка для складывания одежды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030476,
+                        "title": "Шкатулка детская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035641,
+                        "title": "Пакет компрессионный для одежды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85878501,
+                        "title": "Декоративный бар",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029357,
+                        "title": "Шкатулка для часов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035638,
+                        "title": "Коробка для хранения",
+                        "children": []
+                    },
+                    {
+                        "category_id": 87545118,
+                        "title": "Упаковка из гофрокартона",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17031650,
+                        "title": "Ящик для хранения",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030470,
+                        "title": "Коробка, корзина, ящик для вещей, игрушек",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029356,
+                        "title": "Шкатулка для украшений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029355,
+                        "title": "Шкатулка декоративная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029354,
+                        "title": "Шкатулка музыкальная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035639,
+                        "title": "Кофр для хранения",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86561806,
+                        "title": "Чехол для одежды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 93322877,
+                        "title": "Упаковочный материал для транспортировки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035640,
+                        "title": "Органайзер для хранения",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17031646,
+                        "title": "Сумка хозяйственная",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028733,
+                "title": "Праздничные украшения",
+                "children": [
+                    {
+                        "category_id": 77814755,
+                        "title": "Украшение для праздничного стола",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99791280,
+                        "title": "Набор для проведения праздника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036736,
+                        "title": "Карнавальные маски, повязки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77810534,
+                        "title": "Воздушный шар цифра",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77814698,
+                        "title": "Язычок, горн для праздника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030653,
+                        "title": "Подарочная упаковка новогодняя",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825027,
+                        "title": "Елочное украшение новогоднее",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825044,
+                        "title": "Шары елочные новогодние",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036738,
+                        "title": "Карнавальные очки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030664,
+                        "title": "Бумажный фонарик",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73633530,
+                        "title": "Спрей, искусственный снег",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77811163,
+                        "title": "Воздушный шар фольгированный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036740,
+                        "title": "Фигуры деда мороза, снегурочки, снеговика",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77812736,
+                        "title": "Подарочная коробка для денег",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99028152,
+                        "title": "Мешок для подарков (не новогодний)",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77814586,
+                        "title": "Шары, фанты, фонари бумажные для праздника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825035,
+                        "title": "Хлопушка, конфетти, серпантин новогодние",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038615,
+                        "title": "Колпак, грим, маска новогодние",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17031386,
+                        "title": "Аквагрим, тату временное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77799007,
+                        "title": "Сундук для подарков",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77811299,
+                        "title": "Насос для воздушных шаров",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73632125,
+                        "title": "Светящиеся елочные украшения",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036733,
+                        "title": "Карнавальные шляпы, цилиндры, колпаки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73631140,
+                        "title": "Венок новогодний",
+                        "children": []
+                    },
+                    {
+                        "category_id": 44283768,
+                        "title": "Баллон с газом/гелием",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77812858,
+                        "title": "Бумажные цветы, помпоны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77812392,
+                        "title": "Аксессуары для воздушного шара, баллона с гелием",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77814620,
+                        "title": "Гирлянды, растяжки бумажные для праздника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77806561,
+                        "title": "Подарочная коробка, корзинка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73634390,
+                        "title": "Шишки, ветки и цветы декоративные новогодние",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73634213,
+                        "title": "Статуэтка новогодняя",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73630981,
+                        "title": "Бусы на елку",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030660,
+                        "title": "Бумага подарочная, упаковочная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030662,
+                        "title": "Декоративные лента, бант",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17031391,
+                        "title": "Одноразовая посуда для праздника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038612,
+                        "title": "Светящаяся фигура новогодняя",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77812560,
+                        "title": "Фотобутафория для вечеринки, фотореквизит",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17031385,
+                        "title": "Воздушный шар латексный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73631815,
+                        "title": "Носок новогодний",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22824986,
+                        "title": "Электрогирлянда новогодняя",
+                        "children": []
+                    },
+                    {
+                        "category_id": 91571027,
+                        "title": "Аксессуары для электрогирлянды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77806560,
+                        "title": "Карнавальный ободок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22824697,
+                        "title": "Мишура, дождик новогодние",
+                        "children": []
+                    },
+                    {
+                        "category_id": 96533376,
+                        "title": "Электрогирлянда интерьерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77811000,
+                        "title": "Воздушный шар фигурный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 91933934,
+                        "title": "Наполнитель для воздушных шаров",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825153,
+                        "title": "Краски Холи",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22824694,
+                        "title": "Гирлянда-растяжка новогодняя",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73634285,
+                        "title": "Украшения из фольги, бумаги новогодние",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003069,
+                        "title": "Жидкость для пенных вечеринок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030663,
+                        "title": "Подарочный пакет",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036734,
+                        "title": "Карнавальные аксессуары",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73633082,
+                        "title": "Снежный шар новогодний",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77808081,
+                        "title": "Пасхальная металлическая коробка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038617,
+                        "title": "Мешок для подарков новогодний",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77814687,
+                        "title": "Хлопушка, конфетти, бумфети для праздника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77814688,
+                        "title": "Надувная фигура для праздника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036737,
+                        "title": "Карнавальные парики, бороды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036739,
+                        "title": "Украшение новогоднее интерьерное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002515,
+                        "title": "Хвойный букет, композиция новогодняя",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73631767,
+                        "title": "Надувная фигура новогодняя",
+                        "children": []
+                    },
+                    {
+                        "category_id": 94162130,
+                        "title": "Воздушный шар с гелием (надутый)",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027941,
+                "title": "Полив",
+                "children": [
+                    {
+                        "category_id": 84806098,
+                        "title": "Система полива",
+                        "children": []
+                    },
+                    {
+                        "category_id": 50765806,
+                        "title": "Бак для полива",
+                        "children": []
+                    },
+                    {
+                        "category_id": 50765807,
+                        "title": "Бочка садовая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032218,
+                        "title": "Шланг садовый",
+                        "children": []
+                    },
+                    {
+                        "category_id": 83353527,
+                        "title": "Катушка, тележка для шланга",
+                        "children": []
+                    },
+                    {
+                        "category_id": 83354479,
+                        "title": "Пистолет, насадка на шланг",
+                        "children": []
+                    },
+                    {
+                        "category_id": 84456516,
+                        "title": "Соединитель для шлангов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032679,
+                        "title": "Дождеватели, оросители, распылители",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99198959,
+                        "title": "Водопроводная колонка садовая",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028729,
+                "title": "Подушки, одеяла",
+                "children": [
+                    {
+                        "category_id": 17037329,
+                        "title": "Подушка ортопедическая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037325,
+                        "title": "Подушка 70*70",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037034,
+                        "title": "Одеяло для новорожденных и малышей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038037,
+                        "title": "Подушка для беременных и кормящих",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037328,
+                        "title": "Подушка-валик",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34106301,
+                        "title": "Электроодеяло",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17031197,
+                        "title": "Мягкая игрушка - подушка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035787,
+                        "title": "Комплект одеяло+подушка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037335,
+                        "title": "Одеяло - Евро размер от 200х220",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037330,
+                        "title": "Подушка декоративная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037036,
+                        "title": "Подушка в кроватку для новорожденных и малышей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035786,
+                        "title": "Одеяло - 1,5 спальное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029530,
+                        "title": "Позиционер для сна",
+                        "children": []
+                    },
+                    {
+                        "category_id": 29616246,
+                        "title": "Подушки для сидения",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035785,
+                        "title": "Одеяло - 2-х спальное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34106294,
+                        "title": "Электроподушка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037326,
+                        "title": "Подушка 50*70",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34106310,
+                        "title": "Электропростыня",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003224,
+                        "title": "Спальный комплект (матрас + одеяло + подушка + КПБ)",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89338251,
+                        "title": "Подушка детская от 3 лет",
+                        "children": []
+                    },
+                    {
+                        "category_id": 78848871,
+                        "title": "Одеяло детское 110х140",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 72095144,
+                "title": "Часы",
+                "children": [
+                    {
+                        "category_id": 17036019,
+                        "title": "Таймер кухонный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029362,
+                        "title": "Часы песочные, водяные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029360,
+                        "title": "Будильник",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030475,
+                        "title": "Часы для детской комнаты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029361,
+                        "title": "Часы настенные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029358,
+                        "title": "Часы настольные, напольные",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 80239913,
+                "title": "Товары к Пасхе",
+                "children": [
+                    {
+                        "category_id": 77807987,
+                        "title": "Пасхальный венок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77807934,
+                        "title": "Пасхальная фигурка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030658,
+                        "title": "Наклейки пасхальные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030659,
+                        "title": "Пасхальный декор",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030657,
+                        "title": "Корзинка пасхальная",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028712,
+                "title": "Зеркала",
+                "children": [
+                    {
+                        "category_id": 17037692,
+                        "title": "Зеркало декоративное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 91376018,
+                        "title": "Зеркало для ванной комнаты (без шкафа)",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027942,
+                "title": "Посадочный материал",
+                "children": [
+                    {
+                        "category_id": 43534567,
+                        "title": "Семена на ленте",
+                        "children": []
+                    },
+                    {
+                        "category_id": 43535273,
+                        "title": "Саженцы, рассада",
+                        "children": []
+                    },
+                    {
+                        "category_id": 43535272,
+                        "title": "Луковицы для посадки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 43535271,
+                        "title": "Клубни для посадки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 43535393,
+                        "title": "Мицелий",
+                        "children": []
+                    },
+                    {
+                        "category_id": 43535396,
+                        "title": "Корни для посадки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77713093,
+                        "title": "Набор для выращивания",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77712970,
+                        "title": "Семена комнатных растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032683,
+                        "title": "Домашние растения в горшках",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032682,
+                        "title": "Семена",
+                        "children": []
+                    },
+                    {
+                        "category_id": 28305560,
+                        "title": "Газонные травы (семена)",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028742,
+                "title": "Столовые приборы",
+                "children": [
+                    {
+                        "category_id": 34772379,
+                        "title": "Ложка барная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035997,
+                        "title": "Набор столовых ножей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036000,
+                        "title": "Набор столовых приборов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 93448440,
+                        "title": "Ложка, вилка для салата",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035999,
+                        "title": "Набор чайных, кофейных ложек",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035996,
+                        "title": "Набор столовых ложек",
+                        "children": []
+                    },
+                    {
+                        "category_id": 84251203,
+                        "title": "Столовое серебро",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035994,
+                        "title": "Набор десертных вилок, ложек, ножей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036001,
+                        "title": "Палочки для еды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035998,
+                        "title": "Набор столовых вилок",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028727,
+                "title": "Ковры и шкуры",
+                "children": [
+                    {
+                        "category_id": 22825259,
+                        "title": "Натуральная шкура",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825374,
+                        "title": "Коврик прикроватный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825262,
+                        "title": "Защитное покрытие",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825378,
+                        "title": "Ковровая дорожка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036022,
+                        "title": "Коврики, сиденья для бани и сауны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825373,
+                        "title": "Коврик в прихожую",
+                        "children": []
+                    },
+                    {
+                        "category_id": 93501256,
+                        "title": "Аксессуары для ковров",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825265,
+                        "title": "Ковер",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003110,
+                        "title": "Грязезащитный коврик, решетка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825384,
+                        "title": "Ковер детский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451097,
+                        "title": "Набор ковриков для ванной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451098,
+                        "title": "Коврик для ванной комнаты, для туалетной комнаты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32451115,
+                        "title": "Коврик нескользящий в ванну",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027906,
+                "title": "Аксессуары для интерьера",
+                "children": [
+                    {
+                        "category_id": 17038616,
+                        "title": "Наклейки и трафареты новогодние",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030472,
+                        "title": "Ростомер",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035393,
+                        "title": "Картина интерьерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77720235,
+                        "title": "Канвас интерьерный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003542,
+                        "title": "Рама для картин, зеркал (готовая)",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035395,
+                        "title": "Постер, плакат интерьерный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99483211,
+                        "title": "Иконки в автомобиль",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038637,
+                        "title": "Украшение настенное интерьерное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000001957,
+                        "title": "Баннер праздничный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035392,
+                        "title": "Картина - репродукция интерьерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029533,
+                        "title": "Фиксатор для двери",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038627,
+                        "title": "Муляж продуктов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85876597,
+                        "title": "Матрешка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038639,
+                        "title": "Фигурка декоративная интерьерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038638,
+                        "title": "Украшение декоративное интерьерное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002453,
+                        "title": "Подставка для зонтов, сумок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035394,
+                        "title": "Панно, коллаж интерьерные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77720368,
+                        "title": "Скретч-постер, скретч-картина",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88478310,
+                        "title": "Накладка на диван",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86165242,
+                        "title": "Держатель для бутылок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038634,
+                        "title": "Кукла фарфоровая интерьерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038635,
+                        "title": "Термометр декоративный интерьерный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029535,
+                        "title": "Блокировка для мебели",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030471,
+                        "title": "Декор настенный для детской",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038642,
+                        "title": "Корабль сувенирный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035396,
+                        "title": "Икона",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002654,
+                        "title": "Панно религиозное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029353,
+                        "title": "Ваза декоративная интерьерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17031181,
+                        "title": "Защита на углы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038625,
+                        "title": "Табличка интерьерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77720236,
+                        "title": "Картина-мотиватор, список правил",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038636,
+                        "title": "Украшение подвесное интерьерное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003385,
+                        "title": "Табличка уличная для здания",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038628,
+                        "title": "Наклейка декоративная-интерьерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17033108,
+                        "title": "Аксессуары для декора детской",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85784749,
+                        "title": "Подставка интерьерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037030,
+                        "title": "Бампер, бортик, балдахин детские",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73634060,
+                        "title": "Символ года",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029348,
+                        "title": "Статуэтка, миниатюра интерьерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 51563398,
+                        "title": "Трафарет для стен",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029347,
+                        "title": "Тарелка декоративная интерьерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029345,
+                        "title": "Полка интерьерная с крючками",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000001782,
+                        "title": "Чучело декоративное и аксессуары",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003098,
+                        "title": "Наклейка для кухонной утвари",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88980723,
+                        "title": "Крепление для картин, постеров и фото",
+                        "children": []
+                    },
+                    {
+                        "category_id": 87835511,
+                        "title": "Литография, гравюра",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029538,
+                        "title": "Заглушка для розетки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 40868899,
+                        "title": "Подставка для очков декоративная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038624,
+                        "title": "Цифры на дверь",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77720234,
+                        "title": "Картина модульная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030478,
+                        "title": "Аксессуары для детской мебели",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038629,
+                        "title": "Ограничитель, стоппер интерьерные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030647,
+                        "title": "Пепельница",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027926,
+                "title": "Питьевая посуда и аксессуары",
+                "children": [
+                    {
+                        "category_id": 34772546,
+                        "title": "Охладительная рубашка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34291300,
+                        "title": "Дозатор для напитков",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34500061,
+                        "title": "Кувшин",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34292111,
+                        "title": "Джиггер",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34292414,
+                        "title": "Фужер",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34292379,
+                        "title": "Маркеры для бокалов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003168,
+                        "title": "Набор бокалов для вина",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34292104,
+                        "title": "Мадлер",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029200,
+                        "title": "Графин, штоф",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34292378,
+                        "title": "Трубочки для коктейлей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34291299,
+                        "title": "Крышка для напитков",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036592,
+                        "title": "Набор для коктейлей, мартини",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34292112,
+                        "title": "Диспенсер для напитков",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036593,
+                        "title": "Набор для коньяка, бренди",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34292413,
+                        "title": "Шейкер для напитков",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34291351,
+                        "title": "Охладитель для напитков",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029201,
+                        "title": "Набор для вина",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036588,
+                        "title": "Набор для водки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34429204,
+                        "title": "Бокал",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003169,
+                        "title": "Стакан с крышкой",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036591,
+                        "title": "Набор для пива",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036589,
+                        "title": "Набор для глинтвейна, грога",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34292113,
+                        "title": "Декантер",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34515364,
+                        "title": "Бутылка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34771359,
+                        "title": "Воронка для коктейлей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34292415,
+                        "title": "Стопка, рюмка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036595,
+                        "title": "Набор для воды, сока",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029196,
+                        "title": "Набор питьевого стекла",
+                        "children": []
+                    },
+                    {
+                        "category_id": 88538093,
+                        "title": "Стакан, бокал, кружка для пива",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34292380,
+                        "title": "Пробка для бутылок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038195,
+                        "title": "Бутылочка для воды детская",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036594,
+                        "title": "Набор для шампанского",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34904732,
+                        "title": "Аэратор для вина",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34771360,
+                        "title": "Каплеуловитель для вина",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029199,
+                        "title": "Барные аксессуары",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029202,
+                        "title": "Набор для виски",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34292381,
+                        "title": "Стакан",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036590,
+                        "title": "Набор для ликера",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028724,
+                "title": "Сауны и инфракрасные кабины",
+                "children": [
+                    {
+                        "category_id": 17036962,
+                        "title": "Запчасти, комплектующие для бани",
+                        "children": []
+                    },
+                    {
+                        "category_id": 90892987,
+                        "title": "Инфракрасная сауна",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028714,
+                "title": "Инвентарь для дома",
+                "children": [
+                    {
+                        "category_id": 17037090,
+                        "title": "Ведро, отжим на ведро",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036986,
+                        "title": "Корзина для бумаг",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037077,
+                        "title": "Корзина для мусора/бумаги",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029744,
+                        "title": "Мешок для стирки, приспособление для деликатной стирки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 94650123,
+                        "title": "Ведро, бак, контейнер для мусора уличный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73618338,
+                        "title": "Ведро, бак, контейнер для раздельного сбора мусора",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037075,
+                        "title": "Ведерко, контейнер для стирального порошка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029747,
+                        "title": "Мешки, пакеты для мусора",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037091,
+                        "title": "Прищепка для белья",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002727,
+                        "title": "Сенсорное мусорное ведро",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032038,
+                        "title": "Решетка для раковины/мойки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029139,
+                        "title": "Вантуз, трос сантехнический",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73618243,
+                        "title": "Ведро, бак, контейнер для сбора батареек",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037073,
+                        "title": "Ведро, бак, контейнер, корзина для белья",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029746,
+                        "title": "Аксессуар для стирки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037696,
+                        "title": "Ведро для золы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037074,
+                        "title": "Ведро, бак, контейнер для мусора",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029143,
+                        "title": "Веревка бельевая",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027924,
+                "title": "Печи",
+                "children": [
+                    {
+                        "category_id": 17037693,
+                        "title": "Камин домашний",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037694,
+                        "title": "Набор принадлежностей для камина",
+                        "children": []
+                    },
+                    {
+                        "category_id": 91711353,
+                        "title": "Комплектующие для печи, камина",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89115219,
+                        "title": "Портал каминный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 29597664,
+                        "title": "Каминная топка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 56407808,
+                        "title": "Биокамин",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037695,
+                        "title": "Топливо для каминов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036960,
+                        "title": "Печь для бани, сауны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036961,
+                        "title": "Парогенератор для сауны",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027928,
+                "title": "Термосы, термокружки и сифоны",
+                "children": [
+                    {
+                        "category_id": 17033119,
+                        "title": "Термос, термоконтейнер детский",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036012,
+                        "title": "Сифоны и баллоны для газирования",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038833,
+                        "title": "Термос",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038832,
+                        "title": "Термокружка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17034551,
+                        "title": "Термопосуда для туризма, пикника",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99050028,
+                        "title": "Аксессуары, комплектующие для термоса",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17034550,
+                        "title": "Термос для туризма",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036002,
+                        "title": "Термографин, термокувшин",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86615552,
+                        "title": "Термокружка для авто",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92377239,
+                        "title": "Термокастрюля",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 84338046,
+                "title": "Расходники, оснастка для садовой техники",
+                "children": [
+                    {
+                        "category_id": 91108389,
+                        "title": "Навесное оборудование и запчасти для снегоуборщика",
+                        "children": []
+                    },
+                    {
+                        "category_id": 91873970,
+                        "title": "Запчасти для мотоблока",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032693,
+                        "title": "Оснастка, расходники для садовой техники",
+                        "children": []
+                    },
+                    {
+                        "category_id": 84456554,
+                        "title": "Леска, нож для садового инструмента",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027925,
+                "title": "Пиротехника",
+                "children": [
+                    {
+                        "category_id": 89810610,
+                        "title": "Цветной дым",
+                        "children": []
+                    },
+                    {
+                        "category_id": 65368442,
+                        "title": "Петарды",
+                        "children": []
+                    },
+                    {
+                        "category_id": 101637438,
+                        "title": "Свеча фонтан для торта пиротехническая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89115142,
+                        "title": "Пиротехнические мортиры",
+                        "children": []
+                    },
+                    {
+                        "category_id": 65373079,
+                        "title": "Батареи салютов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 65375063,
+                        "title": "Наземные установки фейерверков",
+                        "children": []
+                    },
+                    {
+                        "category_id": 65368496,
+                        "title": "Бенгальские огни",
+                        "children": []
+                    },
+                    {
+                        "category_id": 65373631,
+                        "title": "Набор фейерверков",
+                        "children": []
+                    },
+                    {
+                        "category_id": 65372120,
+                        "title": "Фейерверк ракеты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 65370745,
+                        "title": "Одиночный салют",
+                        "children": []
+                    },
+                    {
+                        "category_id": 65405958,
+                        "title": "Фейерверк летающий",
+                        "children": []
+                    },
+                    {
+                        "category_id": 65371372,
+                        "title": "Фейерверк фонтан и вулкан",
+                        "children": []
+                    },
+                    {
+                        "category_id": 65371478,
+                        "title": "Фейерверк римские свечи",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028715,
+                "title": "Аксессуары для цветов",
+                "children": [
+                    {
+                        "category_id": 89706946,
+                        "title": "Проращиватель семян",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037691,
+                        "title": "Горшок, кашпо",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037690,
+                        "title": "Аксессуары для домашних растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032678,
+                        "title": "Аксессуары для полива",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77712887,
+                        "title": "Автополив для домашних растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77713095,
+                        "title": "Поддон для горшка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 55022134,
+                        "title": "Флорариум",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035390,
+                        "title": "Кашпо подвесное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77713475,
+                        "title": "Ящик для домашних растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77712971,
+                        "title": "Умный сад",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037689,
+                        "title": "Подставка, этажерка для домашних растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 36048129,
+                        "title": "Набор для рассады",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032680,
+                        "title": "Лейка, опрыскиватель ручной садовый",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77713151,
+                        "title": "Левитирующий горшок без живого растения",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028748,
+                "title": "Удобрения и садовая химия",
+                "children": [
+                    {
+                        "category_id": 17032684,
+                        "title": "Биоактиватор компостирования",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032220,
+                        "title": "Садовая химия - Удобрение (НЕ агрохимикаты)",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002746,
+                        "title": "Садовая химия - Агрохимикаты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89670340,
+                        "title": "Противогололедное средство",
+                        "children": []
+                    },
+                    {
+                        "category_id": 68983056,
+                        "title": "Мульча, кора",
+                        "children": []
+                    },
+                    {
+                        "category_id": 39702928,
+                        "title": "Удобрение для домашних растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 100376128,
+                        "title": "Торф для домашних растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 98326088,
+                        "title": "Садовая химия - Адъювант",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032685,
+                        "title": "Садовая химия - Фунгицид (от болезней растений)",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52309663,
+                        "title": "Грунт для садовых растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77712865,
+                        "title": "Мох для домашних растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032222,
+                        "title": "Химическое средство для защиты от грызунов, насекомых и змей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002745,
+                        "title": "Механическое, электронное средство для защиты от грызунов, насекомых и змей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032219,
+                        "title": "Садовая химия - Инсектицид",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032687,
+                        "title": "Садовая химия для водоемов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032221,
+                        "title": "Биопрепарат для растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002730,
+                        "title": "Защита от вредителей для домашних растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032686,
+                        "title": "Садовая химия - Гербицид",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77712555,
+                        "title": "Почва, грунт для домашних растений",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77712701,
+                        "title": "Дренаж, гранулят для домашних растений",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028732,
+                "title": "Посуда для приготовления пищи",
+                "children": [
+                    {
+                        "category_id": 17036597,
+                        "title": "Горшочек",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036605,
+                        "title": "Форма для выпечки и запекания",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038808,
+                        "title": "Посуда для фондю",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036608,
+                        "title": "Кофейник, френч-пресс",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036601,
+                        "title": "Крышка кухонная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038813,
+                        "title": "Тажин",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036611,
+                        "title": "Крышка на кружку",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036618,
+                        "title": "Кофеварка, турка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038811,
+                        "title": "Сковорода",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036598,
+                        "title": "Кастрюля",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038814,
+                        "title": "Утятница, гусятница, ростер, латка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038812,
+                        "title": "Сотейник, жаровня",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038809,
+                        "title": "Противень",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86824015,
+                        "title": "Казан",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002582,
+                        "title": "Посуда для СВЧ/микроволновой печи",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036600,
+                        "title": "Кокот, набор кокотов, ручка для кокота",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17038807,
+                        "title": "Пароварка, соковарка, мантоварка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002696,
+                        "title": "Подставка для турки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036599,
+                        "title": "Ковш",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036603,
+                        "title": "Молоковарка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89340451,
+                        "title": "Скороварка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036596,
+                        "title": "Посуда из жаропрочного стекла",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036016,
+                        "title": "Ступка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036606,
+                        "title": "Чайник для плиты, самовар",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036617,
+                        "title": "Кофеварка гейзерная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036604,
+                        "title": "Набор посуды для приготовления пищи",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028746,
+                "title": "Садовый инструмент",
+                "children": [
+                    {
+                        "category_id": 1000003574,
+                        "title": "Плодосборник",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032690,
+                        "title": "Инвентарь садовый",
+                        "children": []
+                    },
+                    {
+                        "category_id": 27332701,
+                        "title": "Лопата автомобильная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 82329827,
+                        "title": "Тачка, тележка садовая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85096034,
+                        "title": "Рукомойник, умывальник дачные, душ садовый",
+                        "children": []
+                    },
+                    {
+                        "category_id": 28305367,
+                        "title": "Лопата садовая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 82329964,
+                        "title": "Набор садовых инструментов",
+                        "children": []
+                    },
+                    {
+                        "category_id": 82329941,
+                        "title": "Канистра универсальная непищевая",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032692,
+                        "title": "Культиватор, измельчитель механические садовые",
+                        "children": []
+                    },
+                    {
+                        "category_id": 82329850,
+                        "title": "Совок садовый посадочный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32450965,
+                        "title": "Дровокол ручной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 82329947,
+                        "title": "Садовые ножи и ножницы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003575,
+                        "title": "Серп, коса",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003563,
+                        "title": "Черенок для садового инструмента",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86556983,
+                        "title": "Бур ручной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 83296709,
+                        "title": "Вилы, кирка садовые",
+                        "children": []
+                    },
+                    {
+                        "category_id": 83296575,
+                        "title": "Тяпка, мотыга",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032691,
+                        "title": "Инвентарь для уборки снега",
+                        "children": []
+                    },
+                    {
+                        "category_id": 82329838,
+                        "title": "Грабли",
+                        "children": []
+                    },
+                    {
+                        "category_id": 82329959,
+                        "title": "Кусторез ручной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003636,
+                        "title": "Аэратор механический",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032695,
+                        "title": "Секатор, сучкорез ручной",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027927,
+                "title": "Пледы и покрывала",
+                "children": [
+                    {
+                        "category_id": 17039498,
+                        "title": "Чехол для мебели",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035788,
+                        "title": "Плед 1,5 спальный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 62226454,
+                        "title": "Плед детский от 110х140",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039502,
+                        "title": "Покрывало комплект",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039501,
+                        "title": "Покрывало - Евро размер от 200х220",
+                        "children": []
+                    },
+                    {
+                        "category_id": 78849388,
+                        "title": "Покрывало детское от 110х140",
+                        "children": []
+                    },
+                    {
+                        "category_id": 62226205,
+                        "title": "Плед - Евро размер от 200х220",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037035,
+                        "title": "Плед, покрывало для новорожденных и малышей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035790,
+                        "title": "Накидка на кровать",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039499,
+                        "title": "Покрывало - 2-х спальное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 62226247,
+                        "title": "Плед 1 спальный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17039500,
+                        "title": "Покрывало - 1.5 спальное",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035789,
+                        "title": "Плед 2-х спальный",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028940,
+                "title": "Садовая техника",
+                "children": [
+                    {
+                        "category_id": 17032224,
+                        "title": "Бур бензиновый, аккумуляторный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 32450968,
+                        "title": "Подметальная машина",
+                        "children": []
+                    },
+                    {
+                        "category_id": 36915179,
+                        "title": "Кусторез аккумуляторный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032688,
+                        "title": "Газонокосилка, триммер бензиновые",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86492462,
+                        "title": "Измельчитель садовый бензиновый, электрический",
+                        "children": []
+                    },
+                    {
+                        "category_id": 84456370,
+                        "title": "Кусторез бензиновый",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032226,
+                        "title": "Газонокосилка, триммер электрические",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002313,
+                        "title": "Дровокол механический, гидравлический",
+                        "children": []
+                    },
+                    {
+                        "category_id": 83296751,
+                        "title": "Мотокультиватор",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92448331,
+                        "title": "Садовый трактор",
+                        "children": []
+                    },
+                    {
+                        "category_id": 36915939,
+                        "title": "Сучкорез аккумуляторный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032225,
+                        "title": "Воздуходувка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 84456395,
+                        "title": "Кусторез электрический",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032223,
+                        "title": "Снегоуборщик",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "category_id": 17027482,
         "title": "Ремонт и строительство",
         "children": [
