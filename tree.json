@@ -4974,6 +4974,810 @@
         ]
     },
     {
+        "category_id": 17027915,
+        "title": "Мебель",
+        "children": [
+            {
+                "category_id": 80772564,
+                "title": "Детская мебель",
+                "children": [
+                    {
+                        "category_id": 17033115,
+                        "title": "Стол детский для малышей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17033116,
+                        "title": "Стул, табурет для малышей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99793915,
+                        "title": "Мягкая мебель для детей до 3 лет",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003533,
+                        "title": "Растущий стульчик для детей до 3-х лет",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17030479,
+                        "title": "Комод, стол пеленальный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 89200731,
+                        "title": "Парта и стул (комплект)",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17033114,
+                        "title": "Парта",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17033112,
+                        "title": "Набор детской мебели для малышей",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 80653593,
+                "title": "Мебель для салонов красоты",
+                "children": [
+                    {
+                        "category_id": 17034455,
+                        "title": "Кресло косметологическое",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17034643,
+                        "title": "Кресло педикюрное, педикюрный Спа-комплекс",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 80771432,
+                "title": "Мебель для кухни",
+                "children": [
+                    {
+                        "category_id": 52669771,
+                        "title": "Напольные модули для кухни",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86540291,
+                        "title": "Фасад для кухонной мебели",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52669647,
+                        "title": "Настенные модули для кухни",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52669627,
+                        "title": "Модульные кухни",
+                        "children": []
+                    },
+                    {
+                        "category_id": 101390867,
+                        "title": "Готовый кухонный гарнитур",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027918,
+                "title": "Мебель_Столы",
+                "children": [
+                    {
+                        "category_id": 100440296,
+                        "title": "Подставка, полка для системного блока",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80410423,
+                        "title": "Подлокотник для стола",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002360,
+                        "title": "Трибуна, кафедра",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035370,
+                        "title": "Туалетный столик, трюмо",
+                        "children": []
+                    },
+                    {
+                        "category_id": 100001890,
+                        "title": "Столик для ноутбука",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52663384,
+                        "title": "Журнальные столики",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035372,
+                        "title": "Стол, обеденный стол",
+                        "children": []
+                    },
+                    {
+                        "category_id": 45669359,
+                        "title": "Игровые столы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52659818,
+                        "title": "Барные столы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17028879,
+                        "title": "Компьютерные и офисные столы",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 76107195,
+                "title": "Мебель для ванной",
+                "children": [
+                    {
+                        "category_id": 17037678,
+                        "title": "Шкаф, полка для ванной комнаты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86068202,
+                        "title": "Тумба для ванной комнаты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037679,
+                        "title": "Тумба с раковиной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 75472831,
+                        "title": "Шкаф-зеркало для ванной комнаты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037680,
+                        "title": "Комплект мебели для ванной",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 80731485,
+                "title": "Полки и стеллажи",
+                "children": [
+                    {
+                        "category_id": 80049300,
+                        "title": "Этажерка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035376,
+                        "title": "Стеллажи",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035369,
+                        "title": "Полки",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028736,
+                "title": "Садовый отдых",
+                "children": [
+                    {
+                        "category_id": 52670126,
+                        "title": "Садовые качели",
+                        "children": []
+                    },
+                    {
+                        "category_id": 92497269,
+                        "title": "Садовое подвесное кресло",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17029895,
+                        "title": "Гамак",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 80663841,
+                "title": "Банкетки и пуфы",
+                "children": [
+                    {
+                        "category_id": 74724281,
+                        "title": "Банкетки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 82080126,
+                        "title": "Сундук",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037684,
+                        "title": "Пуфы",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 92265029,
+                "title": "Бескаркасная мебель",
+                "children": [
+                    {
+                        "category_id": 22825142,
+                        "title": "Кресла-мешки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002578,
+                        "title": "Чехол для кресла-мешка",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17028735,
+                "title": "Садовые укрытия",
+                "children": [
+                    {
+                        "category_id": 17035682,
+                        "title": "Садовый, пляжный зонты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52704770,
+                        "title": "Основание для cадового, пляжного зонтов",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 80770870,
+                "title": "Комплекты мебели",
+                "children": [
+                    {
+                        "category_id": 52669267,
+                        "title": "Комплект мебели для гостиной",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77094500,
+                        "title": "Комплект мебели для спальни",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17036947,
+                        "title": "Комплекты мягкой мебели",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52668253,
+                        "title": "Комплект мебели для прихожей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037681,
+                        "title": "Комплект мебели",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52660609,
+                        "title": "Обеденные стол, стулья (комплект)",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 80375615,
+                "title": "Диваны и кресла",
+                "children": [
+                    {
+                        "category_id": 101079061,
+                        "title": "Кресло-глайдер",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825170,
+                        "title": "Диваны",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80189316,
+                        "title": "Кресло-кровать",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035384,
+                        "title": "Кресла",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17028876,
+                        "title": "Диван-кровати",
+                        "children": []
+                    },
+                    {
+                        "category_id": 55460320,
+                        "title": "Кушетки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 73759006,
+                        "title": "Кресла-качалки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52660628,
+                        "title": "Уголки кухонные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80318289,
+                        "title": "Угловой диван",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 79164512,
+                "title": "Компьютерные кресла",
+                "children": [
+                    {
+                        "category_id": 35899422,
+                        "title": "Компьютерные и офисные кресла",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17032388,
+                        "title": "Кресло игровое",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027917,
+                "title": "Мебель_Кровати",
+                "children": [
+                    {
+                        "category_id": 17030480,
+                        "title": "Колыбель",
+                        "children": []
+                    },
+                    {
+                        "category_id": 71324021,
+                        "title": "Кровати для детей от 3 лет",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037676,
+                        "title": "Двуспальные кровати",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825148,
+                        "title": "Кровати-чердаки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52655069,
+                        "title": "Кровати с подъемным механизмом",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17033111,
+                        "title": "Кроватка для новорожденных",
+                        "children": []
+                    },
+                    {
+                        "category_id": 22825320,
+                        "title": "Односпальные кровати",
+                        "children": []
+                    },
+                    {
+                        "category_id": 71324001,
+                        "title": "Двухъярусные кровати",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035378,
+                        "title": "Раскладушки",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 200000818,
+                "title": "Мебель для хранения алкоголя",
+                "children": [
+                    {
+                        "category_id": 1000003559,
+                        "title": "Барный шкаф, стойка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003517,
+                        "title": "Уличный шкаф для напитков",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027916,
+                "title": "Стулья, скамьи, табуреты",
+                "children": [
+                    {
+                        "category_id": 17037682,
+                        "title": "Стул, обеденный стул",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52660597,
+                        "title": "Барные стулья",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80738512,
+                        "title": "Подставка под ноги",
+                        "children": []
+                    },
+                    {
+                        "category_id": 33698196,
+                        "title": "Табуреты для ног",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80475754,
+                        "title": "Табурет для сада",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037683,
+                        "title": "Табуреты",
+                        "children": []
+                    },
+                    {
+                        "category_id": 87964768,
+                        "title": "Подлокотник, спинка, сидение для стула",
+                        "children": []
+                    },
+                    {
+                        "category_id": 81203844,
+                        "title": "Компьютерные и офисные стулья",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 80443823,
+                "title": "Садовая мебель",
+                "children": [
+                    {
+                        "category_id": 73758342,
+                        "title": "Аксессуары для садовых качелей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80475784,
+                        "title": "Скамья",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035371,
+                        "title": "Складные столы для сада",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52669913,
+                        "title": "Стул для сада",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52670146,
+                        "title": "Беседка, тент, шатер для садовой мебели",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80475828,
+                        "title": "Диван для сада",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000003177,
+                        "title": "Комплектующие для садовой мебели",
+                        "children": []
+                    },
+                    {
+                        "category_id": 81959644,
+                        "title": "Шкаф для газового баллона",
+                        "children": []
+                    },
+                    {
+                        "category_id": 24026741,
+                        "title": "Садовая кухня",
+                        "children": []
+                    },
+                    {
+                        "category_id": 80475783,
+                        "title": "Шезлонг для сада",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52669912,
+                        "title": "Столы для сада",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52669911,
+                        "title": "Комплекты садовой мебели",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52669960,
+                        "title": "Кресло для сада",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 85282223,
+                "title": "Мебель для бизнеса",
+                "children": [
+                    {
+                        "category_id": 97857508,
+                        "title": "Тележка производственная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 97857261,
+                        "title": "Полка производственная",
+                        "children": []
+                    },
+                    {
+                        "category_id": 97857132,
+                        "title": "Стол производственный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 97856920,
+                        "title": "Шкаф производственный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 97857262,
+                        "title": "Подтоварник, подставка производственные",
+                        "children": []
+                    },
+                    {
+                        "category_id": 97857133,
+                        "title": "Стеллаж производственный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000002407,
+                        "title": "Мебель для ПВЗ",
+                        "children": []
+                    },
+                    {
+                        "category_id": 85284670,
+                        "title": "Защитный экран для офиса, кассы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52670172,
+                        "title": "Мебель для бизнеса",
+                        "children": []
+                    },
+                    {
+                        "category_id": 97857295,
+                        "title": "Ванна производственная",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027914,
+                "title": "Матрасы",
+                "children": [
+                    {
+                        "category_id": 59949523,
+                        "title": "Матрас для садовых качелей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 34196592,
+                        "title": "Матрас в кроватку для новорожденных до 3 лет",
+                        "children": []
+                    },
+                    {
+                        "category_id": 53384679,
+                        "title": "Матрас беспружинный",
+                        "children": []
+                    },
+                    {
+                        "category_id": 37180499,
+                        "title": "Матрас-топпер",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17037331,
+                        "title": "Матрас пружинный",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 53884411,
+                "title": "Мебельная фурнитура и комплектующие",
+                "children": [
+                    {
+                        "category_id": 87004915,
+                        "title": "Подстолье",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035368,
+                        "title": "Кронштейны для полок",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000001817,
+                        "title": "Элементы для барной стойки",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52662366,
+                        "title": "Аксессуары для офисной мебели",
+                        "children": []
+                    },
+                    {
+                        "category_id": 76751833,
+                        "title": "Наполнитель для кресел-мешков",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86636803,
+                        "title": "Мебельный фасад (кроме кухонного)",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52669479,
+                        "title": "Мебельные модули гардеробных систем",
+                        "children": []
+                    },
+                    {
+                        "category_id": 87004908,
+                        "title": "Столешница",
+                        "children": []
+                    },
+                    {
+                        "category_id": 99658712,
+                        "title": "Выкатной ящик под кровать, диван",
+                        "children": []
+                    },
+                    {
+                        "category_id": 100531884,
+                        "title": "Поддон гигиенический кухонный",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17027919,
+                "title": "Мебель_Шкафы, тумбы",
+                "children": [
+                    {
+                        "category_id": 52671576,
+                        "title": "Складные шкафы и гардеробы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 77940937,
+                        "title": "Настенная вешалка",
+                        "children": []
+                    },
+                    {
+                        "category_id": 86636801,
+                        "title": "Мебельный корпус",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52669480,
+                        "title": "Готовые комбинации мебельных гардеробных систем",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52655934,
+                        "title": "Витрины",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035377,
+                        "title": "Корпусные шкафы и гардеробы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52668217,
+                        "title": "Буфеты",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 80711064,
+                "title": "Тумбы и комоды",
+                "children": [
+                    {
+                        "category_id": 52668251,
+                        "title": "Мебель для хранения обуви в прихожей",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035374,
+                        "title": "Складные обувницы и этажерки для обуви",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035373,
+                        "title": "Офисные тумбы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52663288,
+                        "title": "Прикроватные тумбы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 52663495,
+                        "title": "TV-тумбы",
+                        "children": []
+                    },
+                    {
+                        "category_id": 17035375,
+                        "title": "Комоды",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category_id": 17037757,
+                "title": "Комплектующие для мебели",
+                "children": [
+                    {
+                        "category_id": 1000003127,
+                        "title": "Цоколь для  кухонной мебели, комплектующие к нему",
+                        "children": []
+                    },
+                    {
+                        "category_id": 1000001826,
+                        "title": "Комплектующие для кресла-качалки",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "category_id": 17027482,
         "title": "Ремонт и строительство",
         "children": [
