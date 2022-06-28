@@ -22,3 +22,4 @@ pnpm-lock.yaml
 package-lock.json
 commit.sh
 generate-version.sh
+.pnpm-debug.log
