@@ -1,11 +1,25 @@
 {
   "name": "@qbq.systems/ozon-ru-product-categories-tree",
-  "version": "22.6.28-10.33.50",
-  "description": "",
+  "version": "22.7.7-13.15.30",
+  "description": "HTML & JSON og ozon.ru product categories tree",
+  "homepage": "https://github.com/qbq-systems/ozon-ru-product-categories-tree",
+  "keywords": [
+    "dataset",
+    "ozon_ru"
+  ],
   "main": "src/index.js",
+  "author": {
+    "name": "Vladimit Galunshchikov",
+    "url": "https://github.com/soyayaos"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qbq-systems/ozon-ru-product-categories-tree"
+  },
+  "bugs": {
+    "url": "https://github.com/qbq-systems/ozon-ru-product-categories-tree/issues"
+  },
   "type": "module",
   "scripts": {},
-  "keywords": [],
-  "author": "",
   "license": "MIT"
 }
