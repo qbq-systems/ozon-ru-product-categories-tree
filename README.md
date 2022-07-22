@@ -35,6 +35,8 @@ Product categories tree of ozon.ru
 | 15621042  | Электроника                      |        |
 | 17027484  | 18+                              |        |
 
+qbq.systems is not affiliated with ozon.ru. All logos and trademarks are the property of their respective owners.
+
 ## License
 
 [MIT](./LICENSE)
